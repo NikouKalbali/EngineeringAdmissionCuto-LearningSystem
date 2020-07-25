@@ -1,4 +1,4 @@
-# EngineeringAdmissionCutoffLearningSystem
+# Engineering Admission Cutoff LearningSystem
 
 ### Required Modules
 ----------------
