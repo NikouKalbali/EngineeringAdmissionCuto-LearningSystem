@@ -1,4 +1,4 @@
-# Engineering Admission Cutoff LearningSystem <br/> 
+# Engineering Admission Cutoff Learning System <br/> 
 The system can be compiled and run on MAC, Linux/Unix, and Windows systems as a command line program. The implementation is written in Python, version 3.7.1. <br/> 
 #### Required Modules: <br/> 
 The following open source programs need to be installed on your computer using pip or anaconda: <br/> 
